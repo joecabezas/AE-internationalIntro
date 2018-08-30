@@ -1,0 +1,16 @@
+{
+  "configuration": {},
+  "teams": {
+    "macondo": {
+      "color": [0, 0.545, 0.298, 1],
+      "players": {
+        "yiro": {
+          "age": 25,
+          "first_name": "Angelo",
+          "last_name": "Cabezas Campos",
+          "location": "Chile"
+        }
+      }
+    }
+  }
+}
